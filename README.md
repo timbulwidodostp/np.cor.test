@@ -1,6 +1,8 @@
 # np.cor.test
 Nonparametric tests of correlation coefficients Use np.cor.test (nptest) With (In) R Software
 
+https://www.youtube.com/watch?v=8MfQkkThGCs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
